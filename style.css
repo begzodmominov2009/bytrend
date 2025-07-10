@@ -1,0 +1,181 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding-left: 10px;
+    padding-right: 10x;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    gap: 50px;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.btn {
+    border: 1px solid silver;
+    border-radius: 5px;
+    width: 70px;
+    height: 25px;
+    background-color: white;
+}
+
+.btnn {
+    border: 1px solid silver;
+    border-radius: 5px;
+    width: 130px;
+    height: 25px;
+    background-color: white;
+
+}
+
+.header {
+    background-color: white;
+}
+
+.hero-input1 {
+    width: 200px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding-left: 15px;
+    margin-top: 12px;
+}
+
+.hero-title {
+    margin-top: 30px;
+    font-size: 29px;
+}
+
+.hero-subtitle {
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.card {
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    width: 550px;
+    border: none;
+    text-align: center;
+    height: 900px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    margin-left: 300px;
+    background-color: white;
+    margin-top: 30px;
+
+}
+
+
+.card3 {
+    margin-top: 50px;
+}
+
+.input {
+    display: flex;
+    gap: 45px;
+    margin-left: 50px;
+}
+
+.lable {
+    margin-right: 100px;
+}
+
+.card4 {
+    margin-top: 20px;
+
+}
+
+.hero-input2 {
+    width: 446px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding-left: 15px;
+    margin-top: 15px;
+    padding-right: 15px;
+    margin-bottom: 15px;
+}
+
+.lable1 {
+    margin-right: 355px;
+}
+
+.card5 {
+    border: 1px solid silver;
+    width: 200px;
+    border-radius: 5px;
+    height: 38px;
+    margin-top: 15px;
+}
+
+.lable2 {
+    margin-right: 370px;
+}
+
+.lable6 {
+    margin-right: 300px;
+}
+
+.hero-btn {
+    width: 446px;
+    height: 48px;
+    margin-top: 25px;
+    color: white;
+    background-color: #01BAB3;
+    border: none;
+    font-size: 18px;
+}
+
+.lable3 {
+    margin-right: 395px;
+}
+
+.lable9 {
+    margin-right: 370px;
+}
+
+.hero-subtitle5 {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 25px;
+    color: #01BAB3;
+
+}
+
+.hero-btnn {
+    width: 446px;
+    height: 48px;
+    margin-top: 75px;
+    color: white;
+    background-color: #01BAB3;
+    border: none;
+    font-size: 18px;
+
+}
